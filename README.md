@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🇻🇪
 
-<!--
-**Julinet25/Julinet25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Julinet Aray.
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura] (https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhando dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você entrar en contato comigo🙂
+
+Julinetalejandrarayleiva@gmail.com
+
+@JulinetAray
+
+![](https://github.com/user-attachments/assets/19ab090a-c778-4569-bb94-63a6107ed31b)
